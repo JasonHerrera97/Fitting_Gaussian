@@ -1,3 +1,5 @@
+import numpy as np
+
 def likelihood(x, mu, sigma, n=50):
     
     """
